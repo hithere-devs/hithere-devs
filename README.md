@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="600" height="300"/>
+
 # 💫 About Me:
 🔭 I’m currently working on Hackathons & Data Structures and Algorithms.<br>👯 I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help with whatsapp messaging apis connection to my backend application<br>🌱 I’m currently learning Dynamic Programming in Data Structures and Algorithms<br>💬 Ask me about Full Stack Projects in MERN & DevOps, Cloud (AWS)<br>⚡ Fun fact - I go with the flow
 
