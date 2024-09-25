@@ -5,8 +5,7 @@
 # 💫 About Me:
 
 🔭 I’m currently working on Hackathons & Data Structures and Algorithms.<br>👯
-I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help with
-whatsapp messaging apis connection to my backend application<br>🌱 I’m currently
+I’m looking to collaborate on Backend and DevOps Projects<br>🤝 I’m looking for help with building a homeserver with proxmox and k8s. Also with some advices on processes of building good UI UX.<br>🌱 I’m currently
 learning Graphs in Data Structures and Algorithms<br>💬 Ask me about Full Stack
 Projects in MERN & DevOps, Cloud (AWS)<br>⚡ Fun fact - I go with the flow
 
