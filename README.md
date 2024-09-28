@@ -5,9 +5,11 @@
 # 💫 About Me:
 
 🔭 I’m currently working on Hackathons & Data Structures and Algorithms.<br>👯
-I’m looking to collaborate on Backend and DevOps Projects<br>🤝 I’m looking for help with building a homeserver with proxmox and k8s. Also with some advices on processes of building good UI UX.<br>🌱 I’m currently
-learning Graphs in Data Structures and Algorithms<br>💬 Ask me about Full Stack
-Projects in MERN & DevOps, Cloud (AWS)<br>⚡ Fun fact - I go with the flow
+I’m looking to collaborate on Backend and DevOps Projects<br>🤝 I’m looking for
+help with building a homeserver with proxmox and k8s. Also with some advices on
+processes of building good UI UX.<br>🌱 I’m currently learning Kubernetes and
+trying to build multiple projects.<br>💬 Ask me about Full Stack Projects in
+MERN & DevOps, Cloud (AWS)<br>⚡ Fun fact - You must know what I know!
 
 ## 🌐 Socials:
 
@@ -16,7 +18,7 @@ Projects in MERN & DevOps, Cloud (AWS)<br>⚡ Fun fact - I go with the flow
 
 # 💻 Tech Stack:
 
-![PostgreSQL]("")
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234F5B93.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
