@@ -5,7 +5,7 @@
 # 💫 About Me:
 
 🔭 I’m currently working on Full Stack Projects & DevOps.<br>👯
-I’m looking to collaborate on Backend and DevOps Roles<br>🤝 I’m looking for
+I’m looking for on Backend (Full Stack) and DevOps Roles<br>🤝 I’m looking for
 help with building a homeserver with proxmox and k8s. Also with some advices on
 processes of building good UI UX.<br>🌱 I’m currently learning Kubernetes and
 trying to build multiple projects.<br>💬 Ask me about Full Stack Projects in
