@@ -1,15 +1,14 @@
-### Hi there 👋
+### Hi There Devs 👋
 
 <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="600" height="300"/>
 
 # 💫 About Me:
 
 🔭 I’m currently working on Full Stack Projects & DevOps.<br>👯
-I’m looking for on Backend (Full Stack) and DevOps Roles<br>🤝 I’m looking for
-help with building a homeserver with proxmox and k3s, and some advices on
+I’m looking for on Backend (Full Stack) and DevOps Roles<br>🤝 I’m looking for advices on
 processes of building good UI UX.<br>🌱 I’m currently learning Kubernetes and
 trying to build multiple projects.<br>💬 Ask me about Full Stack Projects in
-MERN & DevOps, Cloud (AWS)<br>⚡ Fun fact - You must know who I know!
+MERN & DevOps, Cloud (AWS)
 
 ## 🌐 Socials:
 
