@@ -4,10 +4,10 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Full Stack Projects & DevOps.<br>👯
-I’m looking for on Backend (Full Stack) and DevOps Roles<br>🤝 I’m looking for advices on
+🔭 I’m currently working as a `Sr. Software Engineer @ IStem`<br>👯
+I’m looking for Senior Engineer roles.<br>🤝 I’m looking for advices on
 processes of building good UI UX.<br>🌱 I’m currently learning Kubernetes and
-trying to build multiple projects.<br>💬 Ask me about Full Stack Projects in
+setting up systems day and night.<br>💬 Ask me about Full Stack Software Architecture in
 MERN & DevOps, Cloud (AWS)
 
 ## 🌐 Socials:
