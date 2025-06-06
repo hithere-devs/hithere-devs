@@ -92,7 +92,7 @@ MERN & DevOps, Cloud (AWS)
 
 ![](https://github-readme-stats.vercel.app/api?username=hithere-devs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hithere-devs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hithere-devs&layout=donut)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hithere-devs&layout=donut&theme=dark)
 
 ## 🏆 GitHub Trophies
 
